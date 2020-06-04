@@ -8,7 +8,7 @@ pool:
 variables:
 - group: TALEND_CICD_VARS
 - name: project_name
-  value: 'dynamo_lasalle'
+  value: 'DYNAMO_LASALLE'
 - name: artifact_name
   value: 'JOB_2'
 - name: artifact_version
