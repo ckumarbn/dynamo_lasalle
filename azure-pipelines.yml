@@ -10,7 +10,7 @@ variables:
 - name: project_name
   value: 'DYNAMO_LASALLE'
 - name: artifact_name
-  value: 'JOB_2'
+  value: 'job_2'
 - name: artifact_version
   value: '0.1'
 - name: docker_image_name
